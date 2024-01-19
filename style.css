@@ -1,0 +1,37 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    display: flex;
+  }
+  
+  .box {
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    border: 2px solid #333;
+    background-color: #fff;
+  }
+  
+  .content-box {
+    width: 200px;
+  }
+  
+  .padding-box {
+    padding: 40px;
+  }
+  
+  .border-box {
+    border: 4px solid #007BFF;
+  }
+  
+  .margin-box {
+    margin: 40px;
+  }
